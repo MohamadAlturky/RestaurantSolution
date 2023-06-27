@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "server=DESKTOP-OO326C9\SQLEXPRESS;database= Restaurant;Trusted_Connection=True; Encrypt=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
